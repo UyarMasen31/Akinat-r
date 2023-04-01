@@ -1,2 +1,2 @@
-# Akinat-r
-Akinatör altyapısı REPLİT&amp;GLİCTH
+# Akinatör
+Akinatör altyapısı  .env de tokeninizi yapırştırmayı unutmayın
